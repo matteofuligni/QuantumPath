@@ -1,2 +1,2 @@
 # QuantumPath
-Time Series Modelling and the Quantum Mechanics: A Fusion of Feynman-Dirac Path Integrals and Deep Learning Techniques #BNN #TGAN #Feynman
+Time Series Modelling and the Quantum Mechanics: A Fusion of Feynman-Dirac Path Integrals and Deep Learning Techniques
